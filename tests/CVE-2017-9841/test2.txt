@@ -1,0 +1,1 @@
+<?php  echo 'RCE_VULN|'; echo php_uname();?>
